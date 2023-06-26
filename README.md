@@ -3,6 +3,8 @@
 Jesus gives away free ps2?!?!?!?
 (omaygot)
 
+Requires [devkitPro](https://devkitpro.org) to build.
+
 ![Jesus](https://github.com/Mishimam/jesus-giveaway/assets/111745275/add5bbca-bf94-4438-9a0b-8a0ed7b771ed)
 
 # Installation Guide
