@@ -7,6 +7,6 @@ Jesus gives away free ps2?!?!?!?
 
 # Installation Guide
 
-Install the CIA File with FBI
+- Install the CIA File with FBI
 
 ### If you dont have FBI then i will send the FBI to your house
